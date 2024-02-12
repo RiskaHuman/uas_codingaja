@@ -539,7 +539,7 @@
       <div class="col-12">
         <div class="text-center">
           <p class="text-dark my-4 text-sm font-weight-normal">
-            Copyright © <script>document.write(new Date().getFullYear())</script> 21552011098_M Wipaldi Nurpadilah_KELOMPOK3_TIFRP-221PA <a href="" target="_blank">UASWEB1</a>.
+            Copyright © <script>document.write(new Date().getFullYear())</script> 21552011393_RISKA RAYSA NOOR_KELOMPOK3_TIFRP-221PA <a href="" target="_blank">UASWEB1</a>.
           </p>
         </div>
       </div>
